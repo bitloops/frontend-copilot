@@ -44,6 +44,14 @@ Artie will process your request and provide instructions on how you can access a
 - Exporting HTML and TailwindCSS (HTML can be more easily converted into any framework manually and is a good foundation before we launch React)
 - Generating a partial theme
 
+In our closed alpha we are also:
+- Generating React and Next.js code
+- Generating React components
+- Generating StoryBook stories
+- Naming and understanding things things even better using more AI
+
+If you want to join our closed alpha please reach out on our [Discord](https://discord.gg/vj8EdZx8gK) 
+
 ## What we need from you
 
 - FEEDBACK: Please create issues and reach out with any comments or questions
