@@ -13,7 +13,7 @@ The following are some of the things we are working very hard towards:
 - Generating StoryBook stories for all your presentational components
 - No hardcoded texts in React code and texts passed via props in order to be able to do translations etc.
 
-Our open alpha is completely free! A lot that we want to build are still missing but it will be getting better by the day.
+Our open alpha is completely free! A lot that we want to build are still missing but it will be getting better by the day so stay tuned!
 
 ## Getting Started
 
