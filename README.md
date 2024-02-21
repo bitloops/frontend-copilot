@@ -1,15 +1,15 @@
 # Bitloops Frontend Copilot
 Bitloops is an AI-Powered Front-End Companion in VS Code that transforms your design into high-quality, maintainable code effortlessly.
 
-Before building Bitloops we tried out a lot of products out there that claimed to convert our Figma designs into code. Nonetheless, they required the designs to be constructed in a very specfic way basically asking the designers to think like developers. We know very well that most designers are not interested in that and won't be changing their habits any time soon. Bitloops is the only tool that generates useful code for professional developers. It doesn't need a perfect design to work but rather it tries to generate very decent code while still preserving the design intention. Our goal is not to generate a pixel perfect version of the design nor to generate 100% of the code. Rather we are aiming on correctly generating a big chunk of the work a frontend developer needs to do. 
+Before building Bitloops we tried out a lot of products out there that claimed to convert our Figma designs into code. Nonetheless, they required the designs to be constructed in a very specfic way basically asking the designers to think like developers. We know very well that most designers are not interested in that and won't be changing their habits any time soon. Bitloops is the only tool that generates useful code for professional developers. It doesn't need a perfect design to work but rather it tries to generate very decent code while still preserving the design intention. Our goal is not to generate a pixel perfect version of the design nor to generate 100% of the code. Rather we are aiming on correctly generating a big chunk of the work a frontend developer needs to do requiring further work but **minimizing** any rework. 
 
-The following are some of the things we are working hard towards:
+The following are some of the things we are working very hard towards:
 
 - Priority on TypeScript vs JavaScript (we love types!)
 - Priority on TailwindCSS (it just makes sense!)
 - Generating most of your presentational components
 - Exporting all your images automatically
-- Generating your design system and then your theme automatically
+- Generating your design system and then your theme automatically (even if they are not yet images on the design (e.g. vectors)
 - Generating StoryBook stories for all your presentational components
 - No hardcoded texts in React code and texts passed via props in order to be able to do translations etc.
 
@@ -36,3 +36,18 @@ Add a comment anywhere on the design tagging Artie and typing:“Hey @Artie, con
 Artie will process your request and provide instructions on how you can access and integrate the generated code into your VS Code project seamlessly.
 
 ![image](https://github.com/bitloops/frontend-copilot/assets/1571105/0b64903d-c437-4c87-92be-d903770b44c5)
+
+## Where we're at
+
+- Detecting and organising your content based on page sections
+- Exporting most of your images automatically
+- Exporting HTML and TailwindCSS (HTML can be more easily converted into any framework manually and is a good foundation before we launch React)
+- Generating a partial theme
+
+## What we need from you
+
+- FEEDBACK: Please create issues and reach out with any comments or questions
+- More feedback
+- Try it out! Call Artie and install our VS Code Extension to get started
+- If you like any of what you see or read maybe star us
+- And above all (but not above feedback) spread the love!
